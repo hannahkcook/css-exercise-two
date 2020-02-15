@@ -28,10 +28,17 @@ h1 {
 margin: 0;
 padding: 0;
 border: 0;
-font-size: 100%;
-font: inherit;
+font-size: 30px;
 vertical-align: baseline;
 font-weight: bold;
+}
+
+h3 {
+margin: 0;
+padding: 0;
+border: 0;
+font-size: 18px;
+vertical-align: baseline;
 }
 
 /* HTML5 display-role reset for older browsers */
