@@ -1,5 +1,25 @@
 body {
   background-color: white;
+  font-size: 16px;
+
+}
+
+h1 {
+margin: 0;
+padding: 0;
+border: 0;
+font-size: 30px;
+vertical-align: baseline;
+font-weight: bold;
+}
+
+h3 {
+margin: 0;
+padding: 0;
+border: 0;
+font-size: 18px;
+vertical-align: baseline;
+line-height: 28px;
 }
 
 nav {
@@ -50,9 +70,6 @@ article {
   width: 50%;
 }
 
-.connector {
-
-}
 a {
   text-decoration: none;
 }
@@ -62,10 +79,9 @@ a:hover { color:red; } /* mouse over */
 
   font-size: 14px;
   font-weight: lighter;
-
 }
 
 .story-text {
-
   font-size: 18px;
+  line-height: 30px;
 }
